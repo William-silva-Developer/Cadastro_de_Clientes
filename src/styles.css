@@ -1,1 +1,21 @@
-/* You can add global styles to this file, and also import other style files */
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  list-style: none;
+
+
+}
+
+a {
+  text-decoration: none;
+  color: #444;
+}
+
+body {
+  height: 100vh;
+  background: no-repeat center/cover url("http://3.bp.blogspot.com/-FpQk7ENBXOw/VXA0sxGZ8pI/AAAAAAAAGbo/0cUjFPDhR7g/s1600/fundo-verde%2B%25281%2529.jpg");
+  background-attachment: fixed ;
+  
+}

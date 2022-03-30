@@ -1,0 +1,16 @@
+.container {
+  padding-top: 10px;
+
+}
+
+.container > p {
+  text-align: center;
+  font-size: 36px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: bold;
+  background: #7799;
+  border-radius: 50px 0px 50px 0px;
+  border-style: double;
+  border-color: tomato;
+}
+

@@ -1,0 +1,29 @@
+
+
+.nav {
+  justify-content: space-between;
+  background: #b0c4de;
+  border-bottom-style: groove;
+}
+
+
+.nav >.navbar > .menu {
+  display: flex;
+
+
+}
+
+.navbar {
+  display: inline;
+}
+
+
+
+.logo {
+  max-height: 50px;
+  margin: 20px;
+}
+
+#btn {
+  margin-right: 20px;
+}

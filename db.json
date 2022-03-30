@@ -1,0 +1,9 @@
+{
+  "cliente":[
+    {"id":1, "name":"Will Smith", "cpf": "067604555-99","bairro": "Bela vista"},
+    {"id":2, "name":"William silva", "cpf": "066704555-89","bairro": "Bela luna"},
+    {"id":3, "name":"José afonso", "cpf": "062204885-66","bairro": "Rosa dos ventos"},
+    {"id":4, "name":"Paulo junior", "cpf": "777604555-77","bairro": "Boa esperança"},
+    {"id":5, "name":"Ricardo oliveira", "cpf": "087504520-88","bairro": "Santos reis"}
+  ]
+}
