@@ -5,5 +5,6 @@
     {"id":3, "name":"José afonso", "cpf": "062204885-66","bairro": "Rosa dos ventos"},
     {"id":4, "name":"Paulo junior", "cpf": "777604555-77","bairro": "Boa esperança"},
     {"id":5, "name":"Ricardo oliveira", "cpf": "087504520-88","bairro": "Santos reis"}
+    {"id":6, "name":"Flávio de sirqueira", "cpf": "087504512-66","bairro": "Cidade verde"}
   ]
 }
